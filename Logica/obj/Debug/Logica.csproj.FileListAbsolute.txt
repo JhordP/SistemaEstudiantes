@@ -1,0 +1,6 @@
+D:\Projects\Logica\bin\Debug\Logica.dll
+D:\Projects\Logica\bin\Debug\Logica.pdb
+D:\Projects\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+D:\Projects\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Projects\Logica\obj\Debug\Logica.dll
+D:\Projects\Logica\obj\Debug\Logica.pdb
