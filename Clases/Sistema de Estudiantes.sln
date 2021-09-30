@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema de Estudiantes", "Sistema de Estudiantes.csproj", "{2EC9CDB0-D2A6-4539-9055-CE7A8912E218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\Data\Data.csproj", "{61E85C08-91D6-4081-8C7B-C1C875AEC151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "..\Logica\Logica.csproj", "{96B37EA6-6141-4679-8AA3-0A4A66B99E23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC9CDB0-D2A6-4539-9055-CE7A8912E218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC9CDB0-D2A6-4539-9055-CE7A8912E218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC9CDB0-D2A6-4539-9055-CE7A8912E218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC9CDB0-D2A6-4539-9055-CE7A8912E218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E85C08-91D6-4081-8C7B-C1C875AEC151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E85C08-91D6-4081-8C7B-C1C875AEC151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E85C08-91D6-4081-8C7B-C1C875AEC151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E85C08-91D6-4081-8C7B-C1C875AEC151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B37EA6-6141-4679-8AA3-0A4A66B99E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B37EA6-6141-4679-8AA3-0A4A66B99E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B37EA6-6141-4679-8AA3-0A4A66B99E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B37EA6-6141-4679-8AA3-0A4A66B99E23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E663C8-28A6-4DD1-B4F9-472E8C63E90D}
+	EndGlobalSection
+EndGlobal
