@@ -12,7 +12,7 @@ namespace Logica.Libreria
     {
         public void txtKeyPressRESTRICCION_LETRAS(KeyPressEventArgs datoInsertado)
         {
-            //Si es una letra la el dato insertado de tecla presionada, entonces la propiedad Handled es falsa.
+            //Si es una letra el dato insertado de la tecla presionada, entonces la propiedad Handled es falsa.
             if (char.IsLetter(datoInsertado.KeyChar)) datoInsertado.Handled = false;
 
             //Condicion que no permite salto de linea cuando se oprime Enter.
